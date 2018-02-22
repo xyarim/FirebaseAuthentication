@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonStyle" parent="ButtonStyle">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:background">@android:drawable/btn_default</item>
+    </style>
+</resources>
